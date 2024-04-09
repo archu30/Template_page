@@ -1,4 +1,4 @@
-# Hosting Link:
+# Hosting Link: https://archu30.github.io/Template_page/
 
 #### This is a Responsive page which is made by html, css , bootstrap , slick slider.
 
